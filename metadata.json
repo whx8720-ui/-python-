@@ -1,0 +1,5 @@
+{
+  "name": "XPath 智向爬虫生成器",
+  "description": "输入目标网址和抓取需求，AI 自动分析网页结构并生成基于 XPath 的高效 Python 爬虫代码。",
+  "requestFramePermissions": []
+}
